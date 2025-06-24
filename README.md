@@ -6,3 +6,7 @@ This repo contains example implementation of Gen AI concepts, simplified in a ve
 ##Geminiapiplayground - This shows how you can view what models are present in Gemini currently
 
 ##BuildingEmbeddings- When talking about RAG (Retrival Argument Model), basic entity is Embeddings. This notebook exercise shows how to build basic embedding, how to store  and how to query them.
+
+##Langchains-basic chat models and prompts- This notebooks demonstrates the examples how langchain basic chat model can be used, also it's limitations.
+
+TBC..
