@@ -9,4 +9,6 @@ This repo contains example implementation of Gen AI concepts, simplified in a ve
 
 ##Langchains-basic chat models and prompts- This notebooks demonstrates the examples how langchain basic chat model can be used, also it's limitations.
 
-TBC..
+###Streamlit_Multimodal_apis: This exercise demonstrate how multimodal apis (text to image, image to text, video to text etc) can be leveraged with streamlit(platform for UI interface in fractions) to build quick features.
+
+TBC
