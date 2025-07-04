@@ -14,3 +14,5 @@ This repo contains example implementation of Gen AI concepts, simplified in a ve
 ###ModelcontextProtocol(MCP): This exercise demonstate simple use case of client server interaction with MCP over transport protocol-stdio.
 Client - leverage MCP and Gemini LLM'. Using MCP, it establishes connection with MCP server, loads the tools from server; with Langchain and Gemini creates a react (reasoning and acting) agent and invokes the agent for tools to fetch the result of query.
 Server- leverages MCP and deploys the tool.
+
+TBC
